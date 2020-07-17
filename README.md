@@ -1,4 +1,6 @@
-# webcam
+# Camera Demo
+
+Project for demo a camera app made with VueJS
 
 ## Project setup
 ```
